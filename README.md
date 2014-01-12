@@ -1,2 +1,2 @@
-pyPDS
+Python Probabilistic Data Structure
 =====
